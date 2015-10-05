@@ -843,3 +843,7 @@ there.
 .bold{
     font-weight: bold;
 }
+
+.footer{
+    min-width:900px;
+}
