@@ -588,9 +588,7 @@ there.
   .has-docked-nav .navbar > .container {
     width: 80%; }
 }
-.header{
-    min-width:900px;
-}
+
 /* Stuff for the resume section */
 /* Content */
 /* ----------------------------------------------------- */
@@ -731,7 +729,7 @@ there.
 .content .projects {
   width: 100%;
   min-width: 900px;
-  margin: 0 auto;
+  margin-right: 40px;
   position: relative;
   display: block;
   padding-top: 40px;
