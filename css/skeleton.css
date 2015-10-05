@@ -593,6 +593,7 @@ there.
 /* ----------------------------------------------------- */
 .content {
   width: 100%;
+  min-width:900px;
   margin: 0 auto;
   position: relative;
   display: block;
