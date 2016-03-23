@@ -761,7 +761,7 @@ there.
   height: 180px;
 }
 .content .projects ul.feed .x16x10 .image {
-  height: 180px;
+  height: 100%;
 }
 .content .projects ul.feed .x16x10 .description {
   height: 180px;
@@ -791,6 +791,7 @@ there.
 }
 .content .projects ul.feed > li .image img {
   width: 100%;
+  height: 100%;
 }
 .content .projects ul.feed > li .description {
   -webkit-box-sizing: border-box;
