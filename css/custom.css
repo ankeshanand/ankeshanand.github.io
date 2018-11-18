@@ -14,6 +14,24 @@ h4{
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
+p{
+	font-family: adobe-garamond-pro, serif;
+}
+
+a{
+	color: #c31;
+	text-decoration: none;
+}
+
+img{
+	max-width: 100%;
+}
+
+
+a:hover{
+	color: #11aacc;
+}
+
 .sidebar{
 	text-align: center;
 	font-family: adobe-garamond-pro, serif;
@@ -45,18 +63,6 @@ h4{
 	font-family: adobe-garamond-pro, serif;
 }
 
-p{
-	font-family: adobe-garamond-pro, serif;
-}
-
-a{
-	color: #c31;
-	text-decoration: none;
-}
-
-a:hover{
-	color: #11aacc;
-}
 
 .pub-image{
 	height: 120px;
@@ -65,8 +71,8 @@ a:hover{
 	justify-content: center;
 }
 
-img{
-	max-width: 100%;
+.pub-image img{
+	max-height: 110px;
 }
 
 .pub-venue{
