@@ -1,5 +1,6 @@
 body {
     font-size: 1.7rem;
+    font-family: adobe-garamond-pro, serif;
 }
 
 hr {
@@ -7,6 +8,7 @@ hr {
 }
 
 ul {
+    padding-left:20px;
     list-style-type: disc;
 }
 
@@ -29,6 +31,11 @@ img {
 
 a:hover {
     color: #11aacc;
+}
+
+.toprow{
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 .sidebar {
@@ -60,6 +67,7 @@ a:hover {
 
 .intro {
     font-family: adobe-garamond-pro, serif;
+    margin-top: 10%;
 }
 
 .pub-image {
