@@ -1,5 +1,5 @@
 body{
-	font-size: 1.8rem;
+	font-size: 1.7rem;
 }
 
 hr{
@@ -34,7 +34,6 @@ h4{
 
 .text{
 	font-family: adobe-garamond-pro, serif;
-	font-size: 1.8rem
 }
 
 .headshot{
@@ -48,7 +47,6 @@ h4{
 
 p{
 	font-family: adobe-garamond-pro, serif;
-	font-size: 1.8rem
 }
 
 a{
@@ -57,6 +55,37 @@ a{
 }
 
 a:hover{
-	text-decoration: underline;
+	color: #11aacc;
 }
 
+.pub-image{
+	height: 120px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+img{
+	max-width: 100%;
+}
+
+.pub-venue{
+	font-style: italic;
+}
+
+.pub-authors{
+	font-size: 1.6rem;
+}
+
+.pub-title{
+	font-size: 1.8rem;
+	font-weight: 600;
+}
+
+.publication{
+	padding-bottom: 30px;
+}
+
+.fw6{
+	font-weight: 600;
+}
