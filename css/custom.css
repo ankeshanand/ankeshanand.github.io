@@ -1,97 +1,95 @@
-body{
-	font-size: 1.7rem;
+body {
+    font-size: 1.7rem;
 }
 
-hr{
-	margin-top: 0;
+hr {
+    margin-top: 0;
 }
 
-ul{
-	list-style-type: disc;
+ul {
+    list-style-type: disc;
 }
 
-h4{
-	font-family: 'Source Sans Pro', sans-serif;
+h4 {
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
-p{
-	font-family: adobe-garamond-pro, serif;
+p {
+    font-family: adobe-garamond-pro, serif;
 }
 
-a{
-	color: #c31;
-	text-decoration: none;
+a {
+    color: #c31;
+    text-decoration: none;
 }
 
-img{
-	max-width: 100%;
+img {
+    max-width: 100%;
 }
 
-
-a:hover{
-	color: #11aacc;
+a:hover {
+    color: #11aacc;
 }
 
-.sidebar{
-	text-align: center;
-	font-family: adobe-garamond-pro, serif;
-	font-size: 1.8rem;
+.sidebar {
+    text-align: center;
+    font-family: adobe-garamond-pro, serif;
+    font-size: 1.8rem;
 }
 
-.sidebar span{
-	display: block;
+.sidebar span {
+    display: block;
 }
 
-.sidebar a{
-	 color: #0b0b0b;
- }
-
-.sidebar a:hover{
-	color: #c31;
+.sidebar a {
+    color: #0b0b0b;
 }
 
-.text{
-	font-family: adobe-garamond-pro, serif;
+.sidebar a:hover {
+    color: #c31;
 }
 
-.headshot{
-	width: 200px;
-	border-radius: 50%;
+.text {
+    font-family: adobe-garamond-pro, serif;
 }
 
-.intro{
-	font-family: adobe-garamond-pro, serif;
+.headshot {
+    width: 200px;
+    border-radius: 50%;
 }
 
-
-.pub-image{
-	height: 120px;
-	display: flex;
-	align-items: center;
-	justify-content: center;
+.intro {
+    font-family: adobe-garamond-pro, serif;
 }
 
-.pub-image img{
-	max-height: 110px;
+.pub-image {
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.pub-venue{
-	font-style: italic;
+.pub-image img {
+    max-height: 110px;
 }
 
-.pub-authors{
-	font-size: 1.6rem;
+.pub-venue {
+    font-style: italic;
 }
 
-.pub-title{
-	font-size: 1.8rem;
-	font-weight: 600;
+.pub-authors {
+    font-size: 1.6rem;
 }
 
-.publication{
-	padding-bottom: 30px;
+.pub-title {
+    font-size: 1.8rem;
+    font-weight: 600;
 }
 
-.fw6{
-	font-weight: 600;
+.publication {
+    padding-bottom: 30px;
+}
+
+.fw6 {
+    font-weight: 600;
 }
