@@ -22,5 +22,5 @@ Temporary Items
 # Vim
 *.swp
 
-.idea
+.idea/
 

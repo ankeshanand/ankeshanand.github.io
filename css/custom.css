@@ -43,6 +43,25 @@ h5{
     }
 }
 
+.navbar{
+    position: relative;
+    top: 0;
+    left: 0;
+    border: none;
+    height: 4rem;
+    margin-top: 3%;
+    font-family: 'futura_ltbook', sans-serif;
+}
+
+.navbar-item{
+    float: right;
+    color: #c31;
+}
+
+.navbar-list{
+    padding-right: 40px;
+}
+
 p {
     font-family: adobe-garamond-pro, serif;
 }
