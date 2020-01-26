@@ -53,6 +53,10 @@ h5{
     font-family: 'futura_ltbook', sans-serif;
 }
 
+.navbar ul{
+    list-style: none;
+}
+
 .navbar-item{
     float: right;
     color: #c31;
